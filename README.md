@@ -33,7 +33,7 @@ Building a **blockchain-powered** mobile application for securely managing perso
 
 ## 📫 Connect with Me
 - 🔗 **GitHub**: [Divyanshii28](https://github.com/Divyanshii28)
-- 💼 **LinkedIn**: [Your Profile](#)
-- 📩 **Email**: [Your Email](#)
+- 💼 **LinkedIn**: [Your Profile](http://linkedin.com/in/divyanshi-sen-89873627b)
+- 📩 **Email**: [Your Email](divyanshisen28@gmail.com)
 
-🚀 _Let's collaborate and innovate together!_
+
