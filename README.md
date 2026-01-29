@@ -5,12 +5,11 @@ I am a passionate **Data Analytics & Machine Learning Enthusiast** with a strong
 
 ## 🔥 Skills & Technologies
 - **Programming Languages**: Python, Java, SQL
-- **Data Science & ML**: Pandas, NumPy, Scikit-Learn, TensorFlow, Statsmodels
+- **Data Science & ML**: Pandas, NumPy, Scikit-Learn
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Backend Development**: Spring Boot, REST APIs, JWT Authentication
 - **Databases**: MySQL, PostgreSQL
-- **Web Development**: Streamlit, Flask, HTML, CSS
-- **Tools & Platforms**: Git, Docker, Kaggle, Jupyter Notebook
+- **Web Development**: Streamlit
+- **Tools & Platforms**: Git Kaggle, Jupyter Notebook
 
 ## 📌 Projects
 ### 🔹 [Smart Home Energy Prediction](#)
